@@ -62,3 +62,7 @@ README〜ER 図作成：8/6 〆切
 メイン機能実装：8/6 - 9/3
 β 版を RUNTEQ 内リリース（MVP）：9/4(日)〆切
 本番リリース：9/18(日)
+
+# ■ 画面遷移図
+
+https://www.figma.com/file/iGBskZAJz4UoK11KoZDZ3h/Untitled?node-id=0%3A1
